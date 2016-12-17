@@ -1,0 +1,11 @@
+{
+  "generator-ng-fullstack": {
+    "username": "kennyomg",
+    "appName": "in12tochten",
+    "stack": "fullstack",
+    "server": "go",
+    "client": "ng2",
+    "secure": true,
+    "differentStaticServer": false
+  }
+}
